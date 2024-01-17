@@ -5,7 +5,7 @@ trigger:
 variables:
   resourceGroupName: 'bicep-poc'
   location: 'West US'
-  azureSubscription: 'azure connection'
+  azureSubscription: 'MPN-Zeeshan Saeed-18406(b6142561-3ef9-4dca-95f8-736559f175c2)'
   resourcePrefix: 'bicep'
 
 pool:
